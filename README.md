@@ -23,7 +23,7 @@ I'm a **Data Scientist** passionate about unveiling insights from big data to re
 
 ### 📈 Featured Projects:
 1. **[A Virtual Friend for Kids with Special Needs](https://github.com/sophiasarica/my_project))**: Developed a personal assistant using LLM and NLP for children with special needs to enhance communication and daily activities.
-2. **[SL-RAT Scores Degradation Prediction Model](https://github.com/sophiasarica/my_project)**: Designed a machine learning model predicting infrastructure degradation using Random Forest and Naive Bayes.
+2. **[SL-RAT Scores Degradation Prediction Model]([https://github.com/sophiasarica/my_project](https://github.com/sophiasarica/SL-RAT-PROJECT/tree/main))**: Designed a machine learning model predicting infrastructure degradation using Random Forest and Naive Bayes.
 3. **[Sentiment Analysis & Portfolio Optimization](https://github.com/sophiasarica/my_project)**: Conducted sentiment analysis on Tesla and Bitcoin-related data, integrating it with historical stock prices to optimize portfolio management.
 
 
